@@ -1,0 +1,28 @@
+_repo: Letters-of-Peregrine-Pickle_43955
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43955-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+description: ''
+gutenberg_issued: '2013-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43955'
+  lccn: '31016995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Chicago (Ill.) -- Social life and customs -- 19th century -- Fiction'
+title: Letters of Peregrine Pickle
+url: http://www.gutenberg.org/ebooks/43955
